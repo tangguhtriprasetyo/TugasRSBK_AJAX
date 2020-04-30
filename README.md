@@ -1,5 +1,5 @@
 # TugasRSBK_AJAX
-Tugas 4 RSBK Ajax &amp; Ajax Exercises oleh:
+Tugas 4 RSBK Ajax &amp; Ajax Exercises</br>
 Tangguh Tri Prasetyo (21120117130082)
 
 ## SCREENSHOT
